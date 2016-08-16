@@ -1,3 +1,9 @@
+> Please note that this is a fork of [docker-dns] to specifically work on my internal network.  The network is on the [Docker experimental] build and uses the [macvlan] interface.  Also note that my Python skills are non-existant, so the network name is hard-coded.
+
+[docker-dns]: https://github.com/phensley/docker-dns
+[Docker experimental]: https://github.com/docker/docker/tree/master/experimental
+[macvlan]: https://github.com/docker/docker/blob/master/experimental/vlan-networks.md
+
 docker-dns
 ----------
 
